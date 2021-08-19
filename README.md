@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briciodevzen
 - 👀 I’m interested in ... programing skills
-- 🌱 I’m currently learning ...html, css, javascript, react, firebase
+- 🌱 I’m currently learning ...html, css, javascript, react, node.js
 - 💞️ I’m looking to collaborate on ... this skills /\...
 - 📫 How to reach me ... 
 
